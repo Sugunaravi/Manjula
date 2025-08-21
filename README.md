@@ -4,25 +4,28 @@
 Currently exploring opportunities to grow and contribute as a core engineer.Feel free to check out my projects and learning journey!
 
 
-# 📝 EDUCATION 
+# 📝 Education 
 B.E in Electronics and Communication Engineering 
 
 University College Of Engineering Panruti (Nov 2021 - May 2025)
 
 CGPA - 7.5/10
 
-# 🚀 SKILLS 
+# 🚀 Skills 
 Core: Embedded system, Microcontroller (8051, Arduino)
 
 Tools: MATLAB , Simulink 
 
-# 🌱 CURRENT FOCUS 
+# 🌱 Current focus 
 Actively developing strong core engineering skills through hands-on projects and simulations. Seeking opportunities to apply academic knowledge in real-world environments, especially in embedded systems, digital electronics, and sustainable technologies.
 
-# 🔧 PROJECTS 
+# 🔧 Project 
+
 # Enhancing aviation safety through secure CPDLC using AES and PQC (Feb 2025 - May 2025)
 Tool: MATLAB 
+
 Programming language: Python
+
 - Designed a secure communication framework for Controller–Pilot Data Link Communications (CPDLC) using AES encryption for real-time message confidentiality and Post-Quantum Cryptography (PQC) for future-proof resilience  
 - Simulated message exchange protocols with layered encryption to prevent tampering and unauthorized access  
 - Evaluated performance trade-offs between classical and quantum-safe algorithms to optimize latency and security in aviation-grade systems  
