@@ -4,6 +4,7 @@ Currently exploring opportunities to grow and contribute as a core engineer.Feel
 
 # 📝 EDUCATION 
 B.E in Electronics and Communication Engineering 
+
 University College Of Engineering Panruti (Nov 2021 - May 2025)
 CGPA - 7.5/10
 
