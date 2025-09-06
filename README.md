@@ -12,9 +12,11 @@ University College Of Engineering Panruti (Nov 2021 - May 2025)
 CGPA - 7.5/10
 
 # 🚀 Skills 
-Core: Embedded system, Microcontroller (8051, Arduino)
+Core: Embedded system, Microcontroller,IoT (8051, Arduino)
 
 Tools: MATLAB , Simulink 
+
+Programming languages: Python , Java ,C
 
 # 🌱 Current focus 
 Actively developing strong core engineering skills through hands-on projects and simulations. Seeking opportunities to apply academic knowledge in real-world environments, especially in embedded systems, digital electronics, and sustainable technologies.
@@ -31,3 +33,15 @@ Programming language: Python
 - Evaluated performance trade-offs between classical and quantum-safe algorithms to optimize latency and security in aviation-grade systems  
 - Demonstrated system reliability through output validation and comparative analysis of encryption schemes  
 
+# IoT- based weather monitoring device with predictive weather analysis (2023-2024)
+Tools:
+Hardware: NodeMCU,DTH11 sensor,Rain sensor,LCD and LDR sensor
+Software: Arduino IDE,Blynk
+
+Programming language: C
+
+- Uses sensors to measure temperature, humidity, and pressure   
+- Sends data wirelessly to a cloud platform  
+- Shows live readings on a dashboard or graph  
+- Helps monitor weather in real time from anywhere  
+- Easy to build, low-cost, and useful for remote areas
