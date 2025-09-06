@@ -23,7 +23,7 @@ Actively developing strong core engineering skills through hands-on projects and
 
 # 🔧 Project 
 
-# Enhancing aviation safety through secure CPDLC using AES and PQC (Feb 2025 - May 2025)
+# Enhancing aviation safety through secure CPDLC using AES and PQC (2024-2025)
 Tool: MATLAB 
 
 Programming language: Python
@@ -45,3 +45,50 @@ Programming language: C
 - Shows live readings on a dashboard or graph  
 - Helps monitor weather in real time from anywhere  
 - Easy to build, low-cost, and useful for remote areas
+
+
+# IoT using smart water fountain (2022-2023)
+Tool: Tinkercad , Arduino IDE 
+
+- Uses sensors to detect motion or presence near the fountain  
+- Automatically activates water flow when someone approaches  
+- Monitors water usage and flow rate using IoT sensors  
+- Sends data to a cloud dashboard for tracking and analysis  
+- Can include LED indicators or sound effects for user interaction  
+- Helps save water and adds smart features to public or home fountains  
+- Controlled remotely via mobile app or web interface
+
+
+# 👷🏼‍♀️ Internship 
+# Embedded Systems with AI and IoT
+
+National Small Industries Corporation (NSIC) – Chennai, Tamil Nadu
+(2022-2023)
+
+- Designed and developed embedded systems with IoT integration, improving system efficiency and functionality.
+- Implemented AI algorithms for optimized sensor data analysis, resulting in 15% error rate reduction.
+
+
+# Assembly intern
+Lenovo Manufacturing company - Puducherry,India (2023-2024)
+
+- Assisted in the assembly line process, gaining exposure to electronics manufacturing and quality checks.
+
+
+# Connected Autonomous & Electric Vehicles 
+ISIE India (2024–2025)
+
+- Trained in EV architecture, battery management system,powertrain, and control systems under Sigaram Thodu Program.
+
+
+# 🏆 Certifications 
+
+- IC Chip design and verification -Naan Mudhalvan
+- Cybersecurity fundamental - IBM
+- Network essential by Cisco - Naan Mudhalvan 
+
+
+# 🔌 Connect me
+
+- Linkedin:www.linkedin.com/in/manjula-ravi-a060ab2bb
+- Email : sugunaravi0603@gmail.com
