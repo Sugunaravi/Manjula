@@ -26,6 +26,7 @@ EV Assembly Associate – Electrical & Electronics Quality Engineer
 - Track and manage electronic components and BOMs
 - Coordinate with engineering teams for component changes and quality resolution
 - Ensure manufacturing compliance with SOPs and quality standards
+  
 🎯Interests: Component Engineering | Automotive Electronics | EV Technology | PCB Design & Validation
 
 # 🔧 Project 
