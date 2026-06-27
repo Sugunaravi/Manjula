@@ -9,7 +9,7 @@ B.E in Electronics and Communication Engineering
 
 University College Of Engineering Panruti (Nov 2021 - May 2025)
 
-CGPA - 7.5/10
+CGPA - 7.6/10
 
 # 🚀 Skills 
 Core: Embedded system, Microcontroller,IoT (8051, Arduino)
