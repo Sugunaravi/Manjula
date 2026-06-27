@@ -19,7 +19,7 @@ Tools: MATLAB , Simulink
 Programming languages: Python , Java ,C
 
 # 🌱 Currently growing
-**Raptee Energy Private Limited **
+Raptee Energy Private Limited
 EV Assembly Associate – Electrical & Electronics Quality Engineer
 
 -Inspect and validate PCBs and wiring harnesses
