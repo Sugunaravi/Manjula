@@ -19,14 +19,14 @@ Tools: MATLAB , Simulink
 Programming languages: Python , Java ,C
 
 # 🌱 Currently growing
-Raptee Energy Private Limited 
+**Raptee Energy Private Limited **
 EV Assembly Associate – Electrical & Electronics Quality Engineer
 
-Inspect and validate PCBs and wiring harnesses
-Track and manage electronic components and BOMs
-Coordinate with engineering teams for component changes and quality resolution
-Ensure manufacturing compliance with SOPs and quality standards
-🎯 Interests: Component Engineering | Automotive Electronics | EV Technology | PCB Design & Validation
+-Inspect and validate PCBs and wiring harnesses
+-Track and manage electronic components and BOMs
+-Coordinate with engineering teams for component changes and quality resolution
+-Ensure manufacturing compliance with SOPs and quality standards
+🎯Interests: Component Engineering | Automotive Electronics | EV Technology | PCB Design & Validation
 
 # 🔧 Project 
 
